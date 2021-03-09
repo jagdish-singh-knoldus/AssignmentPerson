@@ -35,5 +35,4 @@ class PersonSpec extends AnyFlatSpec {
     val res: Int = person1.compare(person2)
     assert(res<0)
   }
-
 }

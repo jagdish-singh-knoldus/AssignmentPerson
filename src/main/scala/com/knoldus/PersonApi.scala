@@ -10,5 +10,4 @@ object PersonApi extends App {
     println(s"${personOne}>${personTwo}: true")
   else
     println("personOne==personTwo")
-
 }
